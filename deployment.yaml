@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: devops-test
-          image: guddnr5345/devops-test:18
+          image: guddnr5345/devops-test:1
           ports:
             - containerPort: 8080
 ---
